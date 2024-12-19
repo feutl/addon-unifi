@@ -1,5 +1,5 @@
 ---
-name: UniFi Network Application
+name: UniFi Network Application (hfeutl)
 version: dev
 slug: unifi
 description: Manage your UniFi network using a web browser
